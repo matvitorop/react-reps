@@ -1,0 +1,21 @@
+.upperPart{
+    display: flex;
+    gap: 10px;
+}
+.bottomPart {
+    display: flex;
+    gap: 10px
+}
+
+.bottomPartUpdated {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.tab {
+    display: flex;
+    gap: 10px;
+    margin: 20px;
+}
+
